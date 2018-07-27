@@ -17,7 +17,7 @@ The current iteration is prepared for [Decentralized Web Summit 2018](https://de
 
 ### Hardware
 
-* _Two_ LibreRouter v1 prototype boards each with _one_ [HPM5G radio assembly](https://github.com/tomeshnet/documents/blob/master/technical/20180530_hpm5g-radio-tests.md)
+* _Two_ [LibreRouter](https://github.com/libremesh/librerouter) v1 prototype boards each with _one_ [HPM5G radio assembly](https://github.com/tomeshnet/documents/blob/master/technical/20180530_hpm5g-radio-tests.md)
 * _Two_ Raspberry Pi 3B devices
 * _One_ Raspberry Pi camera
 * Ethernet cables and power
@@ -25,3 +25,5 @@ The current iteration is prepared for [Decentralized Web Summit 2018](https://de
 ### Software
 
 Follow [Configurations for the LibreRouter v1](librerouter.md) to configure each LibreRouter.
+
+Follow [Configurations for the Raspberry Pi 3B](raspberry-pi-3b.md) to configure each Raspberry Pi.
